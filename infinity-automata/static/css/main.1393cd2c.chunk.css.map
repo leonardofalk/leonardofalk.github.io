@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.css"],"names":[],"mappings":"AAAA,SACE,oBACF,CAEA,UACE,sBACF,CAEA,aACE,qBACF","file":"main.1393cd2c.chunk.css","sourcesContent":[".bad-row {\n  background-color: red\n}\n\n.good-row {\n  background-color: green\n}\n\n.current-row {\n  background-color: blue\n}\n"]}

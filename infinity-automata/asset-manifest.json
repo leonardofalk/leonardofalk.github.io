@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/infinity-automata/static/css/main.1393cd2c.chunk.css",
+    "main.js": "/infinity-automata/static/js/main.26a17d8b.chunk.js",
+    "main.js.map": "/infinity-automata/static/js/main.26a17d8b.chunk.js.map",
+    "runtime-main.js": "/infinity-automata/static/js/runtime-main.bbd5e20e.js",
+    "runtime-main.js.map": "/infinity-automata/static/js/runtime-main.bbd5e20e.js.map",
+    "static/css/2.7ececfe9.chunk.css": "/infinity-automata/static/css/2.7ececfe9.chunk.css",
+    "static/js/2.688e1314.chunk.js": "/infinity-automata/static/js/2.688e1314.chunk.js",
+    "static/js/2.688e1314.chunk.js.map": "/infinity-automata/static/js/2.688e1314.chunk.js.map",
+    "index.html": "/infinity-automata/index.html",
+    "precache-manifest.26fc9fb55bdca225ba2876949cbb22af.js": "/infinity-automata/precache-manifest.26fc9fb55bdca225ba2876949cbb22af.js",
+    "service-worker.js": "/infinity-automata/service-worker.js",
+    "static/css/2.7ececfe9.chunk.css.map": "/infinity-automata/static/css/2.7ececfe9.chunk.css.map",
+    "static/css/main.1393cd2c.chunk.css.map": "/infinity-automata/static/css/main.1393cd2c.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bbd5e20e.js",
+    "static/css/2.7ececfe9.chunk.css",
+    "static/js/2.688e1314.chunk.js",
+    "static/css/main.1393cd2c.chunk.css",
+    "static/js/main.26a17d8b.chunk.js"
+  ]
+}
